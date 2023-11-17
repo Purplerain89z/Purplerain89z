@@ -12,4 +12,3 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purplerain89z&layout=compact&langs_count=7&theme=midnight-purple" />
   </a>
 </div>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Purplerain89z&theme=dark)
