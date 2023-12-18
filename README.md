@@ -3,8 +3,6 @@
 - 👋 Olá, Meu nome é Almir.
 - 👀 Sou iniciante no mundo da programação e estudo Análise e Desenvolvimento de Sistemas.
 - 🌱 Pronomes: Ele/Dele
-- 👨‍💻 Atualmente, estou aprendendo C.
-- 💼 Tenho interesse em Dados mas também estou aberto para todas as áreas .
 
 <div align="center">
   <a href="https://github.com/Purplerain89z">
